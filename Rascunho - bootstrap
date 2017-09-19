@@ -146,12 +146,12 @@
 
             <div class="col-lg-4 col-md-6 mb-4">
               <div class="card h-100">
-                <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+                <a href="#"><img class="card-img-top" src="https://i.ytimg.com/vi/Q1z8OVfAUCI/movieposter.jpg" alt=""></a>
                 <div class="card-body">
                   <h4 class="card-title">
-                    <a href="#">Item Four</a>
+                    <a href="#">Percy Jackson</a>
                   </h4>
-                  <h5>$24.99</h5>
+                  
                   <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
                 </div>
                 <div class="card-footer">
@@ -162,12 +162,12 @@
 
             <div class="col-lg-4 col-md-6 mb-4">
               <div class="card h-100">
-                <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+                <a href="#"><img class="card-img-top" src="http://statics.livrariacultura.net.br/products/capas_lg/706/17530706.jpg" alt=""></a>
                 <div class="card-body">
                   <h4 class="card-title">
-                    <a href="#">Item Five</a>
+                    <a href="#">Drácula</a>
                   </h4>
-                  <h5>$24.99</h5>
+                  
                   <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.</p>
                 </div>
                 <div class="card-footer">
@@ -178,12 +178,12 @@
 
             <div class="col-lg-4 col-md-6 mb-4">
               <div class="card h-100">
-                <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+                <a href="#"><img class="card-img-top" src="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=3691925&qld=90&l=430&a=-1" alt=""></a>
                 <div class="card-body">
                   <h4 class="card-title">
-                    <a href="#">Item Six</a>
+                    <a href="#"> Os Três Porquinhos</a>
                   </h4>
-                  <h5>$24.99</h5>
+                  
                   <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
                 </div>
                 <div class="card-footer">
